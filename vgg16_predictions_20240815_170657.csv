@@ -1,0 +1,2 @@
+Image,Predictions,Contains Animal
+1.jpg,miniature_poodle (0.40); standard_poodle (0.38); toy_poodle (0.09),False

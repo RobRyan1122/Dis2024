@@ -1,0 +1,2 @@
+Image,Predictions,Contains Animal
+1.jpg,Labrador_retriever (0.77); golden_retriever (0.22); kuvasz (0.01),False

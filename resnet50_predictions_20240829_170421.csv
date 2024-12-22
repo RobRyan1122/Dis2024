@@ -1,0 +1,4 @@
+Image,Top Prediction,Prediction Probability,Second Prediction,Second Probability,Third Prediction,Third Probability,Contains Animal
+1.jpg,Labrador_retriever,0.77,golden_retriever,0.22,kuvasz,0.01,False
+1_elephantskin.png,standard_poodle,0.51,miniature_poodle,0.23,chainlink_fence,0.11,False
+COD10K-CAM-1-Aquatic-1-BatFish-1.jpg,electric_ray,0.56,eel,0.13,sea_slug,0.11,False

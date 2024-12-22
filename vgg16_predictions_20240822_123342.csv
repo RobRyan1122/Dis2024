@@ -1,0 +1,3 @@
+Image,Predictions,Contains Animal
+1.jpg,miniature_poodle (0.40); standard_poodle (0.38); toy_poodle (0.09),False
+1_elephantskin.png,miniature_poodle (0.16); soft-coated_wheaten_terrier (0.16); toy_poodle (0.15),False
